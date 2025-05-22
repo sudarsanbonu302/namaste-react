@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "namste react created by Bonu",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sudarsanbonu302/namaste-react.git)"
+  },
+  "keywords": [
+    "react",
+    "namaste-react"
+  ],
+  "author": "Bonu",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  }
+}
