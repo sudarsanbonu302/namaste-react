@@ -2,9 +2,11 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "namste react created by Bonu",
-  "main": "index.js",
+ 
   "scripts": {
-    "test": "jest"
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"  
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,9 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.15.1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
